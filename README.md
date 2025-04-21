@@ -1,4 +1,4 @@
-# workshop-planner-with-Gen-AI
+# workshop planner using Gen-AI
 This is my first Repository
 <br>
-Author-Awaiz
+Author-Mohammed Abdul Awaiz
