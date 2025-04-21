@@ -1,2 +1,3 @@
 # workshop-planner-with-Gen-AI
-this is my first project
+This is my first Repository
+Author-Awaiz
